@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70acc5c5-08ab-4d66-a0ea-93a8acc49233" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/github/org/evolutionarycode/elevens/Card.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/github/org/evolutionarycode/elevens/CardTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/github/org/evolutionarycode/elevens/Deck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elevensLab.iws" beforeDir="false" afterPath="$PROJECT_DIR$/elevensLab.iws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github/org/evolutionarycode/elevens/Card.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/github/org/evolutionarycode/elevens/Card.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,7 +28,7 @@
           <entry key="iml" value="1" />
           <entry key="ipr" value="1" />
           <entry key="iws" value="1" />
-          <entry key="java" value="9" />
+          <entry key="java" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -36,18 +37,18 @@
           <entry key="IDEA_MODULE" value="1" />
           <entry key="IDEA_PROJECT" value="1" />
           <entry key="IDEA_WORKSPACE" value="1" />
-          <entry key="JAVA" value="9" />
+          <entry key="JAVA" value="10" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="383" />
+          <entry key="java" value="586" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="383" />
+          <entry key="JAVA" value="586" />
         </counts>
       </usages-collector>
     </session>
@@ -57,8 +58,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/github/org/evolutionarycode/elevens/Card.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="316">
-              <caret line="91" column="74" lean-forward="true" selection-start-line="91" selection-start-column="74" selection-end-line="91" selection-end-column="74" />
+            <state relative-caret-position="561">
+              <caret line="91" column="76" selection-start-line="91" selection-start-column="76" selection-end-line="91" selection-end-column="76" />
               <folding>
                 <element signature="e#1155#1156#0" expanded="true" />
                 <element signature="e#1182#1183#0" expanded="true" />
@@ -74,10 +75,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/github/org/evolutionarycode/elevens/Deck.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="24" column="27" lean-forward="true" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/github/org/evolutionarycode/elevens/CardTester.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="255">
+              <caret line="15" column="45" lean-forward="true" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -109,8 +122,9 @@
         <option value="$PROJECT_DIR$/src/Resources/Elevens-Project-master/Activity Starter Code/Activity1 Starter Code/Card.java" />
         <option value="$PROJECT_DIR$/src/main/github/org/evolutionarycode/elevens/Card.java" />
         <option value="$PROJECT_DIR$/src/main/github/org/evolutionarycode/elevens/CardTester.java" />
-        <option value="$PROJECT_DIR$/src/github/org/evolutionarycode/elevens/Card.java" />
         <option value="$PROJECT_DIR$/src/github/org/evolutionarycode/elevens/CardTester.java" />
+        <option value="$PROJECT_DIR$/src/github/org/evolutionarycode/elevens/Card.java" />
+        <option value="$PROJECT_DIR$/src/github/org/evolutionarycode/elevens/Deck.java" />
       </list>
     </option>
   </component>
@@ -216,7 +230,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543271111704" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543272776366" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/elevensLab.iml" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -265,12 +279,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1543254869856</updated>
-      <workItem from="1543254874095" duration="6525000" />
+      <workItem from="1543254874095" duration="8188000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6525000" />
+    <option name="totallyTimeSpent" value="8188000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
@@ -282,11 +296,11 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Learn" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Messages" weight="0.32885906" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32885906" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32885906" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" weight="0.32885906" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -361,10 +375,17 @@
     <entry file="file://$PROJECT_DIR$/elevensLab.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/github/org/evolutionarycode/elevens/CardTester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="45" lean-forward="true" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/github/org/evolutionarycode/elevens/Card.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="91" column="74" lean-forward="true" selection-start-line="91" selection-start-column="74" selection-end-line="91" selection-end-column="74" />
+        <state relative-caret-position="561">
+          <caret line="91" column="76" selection-start-line="91" selection-start-column="76" selection-end-line="91" selection-end-column="76" />
           <folding>
             <element signature="e#1155#1156#0" expanded="true" />
             <element signature="e#1182#1183#0" expanded="true" />
@@ -378,10 +399,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/github/org/evolutionarycode/elevens/CardTester.java">
+    <entry file="file://$PROJECT_DIR$/src/github/org/evolutionarycode/elevens/Deck.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="357">
+          <caret line="24" column="27" lean-forward="true" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
