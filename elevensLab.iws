@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70acc5c5-08ab-4d66-a0ea-93a8acc49233" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/github/org/evolutionarycode/elevens/DeckTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/github/org/evolutionarycode/elevens/Shuffler.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/elevensLab.iws" beforeDir="false" afterPath="$PROJECT_DIR$/elevensLab.iws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/elevensLab/github/org/evolutionarycode/elevens/Card.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/elevensLab/github/org/evolutionarycode/elevens/Card.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/elevensLab/github/org/evolutionarycode/elevens/CardTester.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/elevensLab/github/org/evolutionarycode/elevens/CardTester.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github/org/evolutionarycode/elevens/Deck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/github/org/evolutionarycode/elevens/Deck.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,7 +33,7 @@
           <entry key="iml" value="1" />
           <entry key="ipr" value="1" />
           <entry key="iws" value="1" />
-          <entry key="java" value="10" />
+          <entry key="java" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -37,29 +42,29 @@
           <entry key="IDEA_MODULE" value="1" />
           <entry key="IDEA_PROJECT" value="1" />
           <entry key="IDEA_WORKSPACE" value="1" />
-          <entry key="JAVA" value="10" />
+          <entry key="JAVA" value="12" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="586" />
+          <entry key="java" value="606" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="586" />
+          <entry key="JAVA" value="606" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/github/org/evolutionarycode/elevens/Card.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="-34">
+              <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
             </state>
           </provider>
         </entry>
@@ -67,13 +72,31 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/github/org/evolutionarycode/elevens/Deck.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="612">
-              <caret line="36" selection-start-line="36" selection-end-line="36" />
+            <state relative-caret-position="289">
+              <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#1332#1333#0" expanded="true" />
+                <element signature="e#1368#1369#0" expanded="true" />
+                <element signature="e#1524#1525#0" expanded="true" />
+                <element signature="e#1551#1552#0" expanded="true" />
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/github/org/evolutionarycode/elevens/DeckTester.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="26" column="36" selection-start-line="26" selection-start-column="36" selection-end-line="26" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/github/org/evolutionarycode/elevens/Shuffler.java">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -115,6 +138,8 @@
         <option value="$PROJECT_DIR$/src/github/org/evolutionarycode/elevens/CardTester.java" />
         <option value="$PROJECT_DIR$/src/github/org/evolutionarycode/elevens/Card.java" />
         <option value="$PROJECT_DIR$/src/github/org/evolutionarycode/elevens/Deck.java" />
+        <option value="$PROJECT_DIR$/src/github/org/evolutionarycode/elevens/DeckTester.java" />
+        <option value="$PROJECT_DIR$/src/github/org/evolutionarycode/elevens/Shuffler.java" />
       </list>
     </option>
   </component>
@@ -189,6 +214,35 @@
               <item name="elevensLab" type="b2602c69:ProjectViewProjectNode" />
               <item name="ElevensLab" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="elevensLab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ElevensLab" type="462c0819:PsiDirectoryNode" />
+              <item name="Resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="elevensLab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ElevensLab" type="462c0819:PsiDirectoryNode" />
+              <item name="Resources" type="462c0819:PsiDirectoryNode" />
+              <item name="Activity Starter Code" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="elevensLab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ElevensLab" type="462c0819:PsiDirectoryNode" />
+              <item name="Resources" type="462c0819:PsiDirectoryNode" />
+              <item name="Activity Starter Code" type="462c0819:PsiDirectoryNode" />
+              <item name="Activity3  Starter Code" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="elevensLab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ElevensLab" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="elevensLab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ElevensLab" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="elevens" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -198,7 +252,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543332328754" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543333407811" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/elevensLab.iml" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -208,12 +262,13 @@
     <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\asus\Documents\GitHub\ElevensLab\src\main\resources" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\asus\Documents\GitHub\ElevensLab\src\github\org\evolutionarycode\elevens" />
       <recent name="C:\Users\asus\Documents\GitHub\ElevensLab\src\main\github\org\evolutionarycode\elevens" />
       <recent name="C:\Users\asus\Documents\GitHub\ElevensLab\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\asus\Documents\GitHub\ElevensLab\src\main\resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -229,6 +284,19 @@
     </option>
   </component>
   <component name="RunManager">
+    <configuration name="DeckTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="github.org.evolutionarycode.elevens.DeckTester" />
+      <module name="elevensLab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="github.org.evolutionarycode.elevens.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
       <option name="MAIN_CLASS_NAME" value="Card" />
       <option name="SCRATCH_FILE_URL" value="file://$PROJECT_DIR$/elevensLab.iml" />
@@ -236,6 +304,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DeckTester" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -248,16 +321,15 @@
       <option name="presentableId" value="Default" />
       <updated>1543254869856</updated>
       <workItem from="1543254874095" duration="8803000" />
-      <workItem from="1543329335704" duration="841000" />
+      <workItem from="1543329335704" duration="1919000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9644000" />
+    <option name="totallyTimeSpent" value="10722000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25302014" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -269,7 +341,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32885906" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32885906" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -323,22 +395,36 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/github/org/evolutionarycode/elevens/Card.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-34">
+          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/github/org/evolutionarycode/elevens/Deck.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        <state relative-caret-position="289">
+          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#1332#1333#0" expanded="true" />
+            <element signature="e#1368#1369#0" expanded="true" />
+            <element signature="e#1524#1525#0" expanded="true" />
+            <element signature="e#1551#1552#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/github/org/evolutionarycode/elevens/Card.java">
+    <entry file="file://$PROJECT_DIR$/src/github/org/evolutionarycode/elevens/DeckTester.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="340">
+          <caret line="26" column="36" selection-start-line="26" selection-start-column="36" selection-end-line="26" selection-end-column="36" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/github/org/evolutionarycode/elevens/Shuffler.java">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
