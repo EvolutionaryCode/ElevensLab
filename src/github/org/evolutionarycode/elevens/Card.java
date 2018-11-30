@@ -46,6 +46,7 @@ public class Card {
      * @return this <code>Card's</code> suit.
      */
     public String suit() {
+        //Return the Cards Suit
         return suit;
     }
 
@@ -54,6 +55,7 @@ public class Card {
      * @return this <code>Card's</code> rank.
      */
     public String rank() {
+        //Return the Cards Rank
         return rank;
     }
 
@@ -62,6 +64,7 @@ public class Card {
      * @return this <code>Card's</code> point value.
      */
     public int pointValue() {
+        //Returns the Cards PointValue
         return pointValue;
     }
 
