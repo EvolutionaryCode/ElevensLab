@@ -10,7 +10,9 @@ public class CardTester {
             Card card2 = new Card("6", "Hearts", 6);
             Card card3 = new Card("Jack", "Hearts", 11);
 
-            System.out.println("-------[This the the practice cards values!]-------");
+            System.out.println(); // #BlankLine
+
+            System.out.println(ConsoleColors.RED_BOLD_BRIGHT + "-------[This the the practice cards values!]-------" + ConsoleColors.RESET);
             System.out.println(card1.toString());
             System.out.println(card2.toString());
             System.out.println(card3.toString());
