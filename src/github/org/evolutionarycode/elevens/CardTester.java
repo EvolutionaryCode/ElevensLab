@@ -13,15 +13,15 @@ public class CardTester {
             System.out.println(); // #BlankLine
 
             System.out.println(ConsoleColors.RED_BOLD_BRIGHT + "-------[This the the practice cards values!]-------" + ConsoleColors.RESET);
-            System.out.println(card1.toString());
-            System.out.println(card2.toString());
-            System.out.println(card3.toString());
+            System.out.println(ConsoleColors.BLUE_BOLD + card1.toString() + ConsoleColors.RESET);
+            System.out.println(ConsoleColors.BLUE_BOLD + card2.toString() + ConsoleColors.RESET);
+            System.out.println(ConsoleColors.BLUE_BOLD + card3.toString() + ConsoleColors.RESET);
 
             System.out.println(); // #BlankLine
 
-            System.out.println("-------[What Card Match?]-------");
-            System.out.println("Card 1 and Card 2 should match: " + card2.matches(card1));
-            System.out.println("Card 2 and Card 3 should not match: " + !card2.matches(card3));
+            System.out.println(ConsoleColors.RED_BOLD_BRIGHT + "-------[What Card Match?]-------" + ConsoleColors.RESET);
+            System.out.println(ConsoleColors.GREEN_BRIGHT + "Card 1 and Card 2 should match: " + ConsoleColors.RESET + ConsoleColors.BLUE_BOLD + card2.matches(card1) + ConsoleColors.RESET);
+            System.out.println(ConsoleColors.GREEN_BRIGHT + "Card 2 and Card 3 should not match: " + ConsoleColors.RESET + ConsoleColors.BLUE_BOLD + !card2.matches(card3) + ConsoleColors.RESET);
         }
 
 }
